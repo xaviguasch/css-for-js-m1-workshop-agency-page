@@ -8,12 +8,14 @@ body {
   margin: 0;
   padding: 0;
 
-  font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.5;
 }
 
 /* Add styles here! */
+p {
+  font-size: 1.25rem;
+}
 
 header {
   margin-top: 96px;
@@ -57,12 +59,12 @@ strong {
 }
 
 .title {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 800;
 }
 
 .indented-heading {
-  font-size: 1.333125rem;
+  font-size: 1.5rem;
   background: hsl(45, 100%, 50%);
   border-bottom: 8px solid hsl(45, 100%, 40%);
   margin: 0;
